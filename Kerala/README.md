@@ -23,7 +23,7 @@ The following are available in the state summary file:
 * `SSFT`: Total Samples sent for testing as of that date
 * `STN`: Total Samples tested negative as of that date
 
-The district summary file do not have the attributes `SSFT` and `STN` in the state level summary. It has the following additional fields:
+The district summary file does not have the attributes `SSFT` and `STN` in the state level summary. It has the following additional fields:
 
 * `NDC`: Numeric district code collected from the [Office of the Registrar Geneal & Census Commissioner](https://censusindia.gov.in/Census_Data_2001/PLCN/plcn.html), India
 * `District`: District name
