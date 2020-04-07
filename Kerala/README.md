@@ -7,7 +7,7 @@ For further information on the datasets, contact Varun Vasudevan (devan at stanf
 ## Data files
 * `kerala_state_summary.csv`: State level summary of the COVID-19 cases for dates starting from `2020-01-31`.
 * `kerala_district_summary.csv`: District level summary of the COVID-19 cases for dates starting from `2020-01-31`.
-* `district_code.csv`: Numeric code for the districts.
+* `district_code.csv`: Numeric code of the districts.
 
 ## Data source
 We formed the datasets solely from the official information published by the Directorate of Health Services (D.H.S.), Kerala, and from the discussion with the government officials.
