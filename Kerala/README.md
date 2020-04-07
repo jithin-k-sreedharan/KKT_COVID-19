@@ -1,6 +1,8 @@
 # COVID-19 dataset of the Indian state - Kerala
 
-In India, COVID-19 was first identified in Kerala at the end of January 2020. Since then, Kerala has introduced extensive measures to contain the disease. These datasets capture that.
+In India, COVID-19 was first identified in Kerala at the end of January 2020. Since then, Kerala has introduced extensive measures to contain the disease. We hope that the information of people under observation, home isolation (before testing positive), and symptomatic hospitalized cases will captutre the effect of contact tracing and containiment to reduce the spreading.
+
+For further information on the datasets, contact Varun Vasudevan (devan at stanford dot edu) and Jithin K. Sreedharan (jithinks at purdue dot edu).
 
 ## Data files
 * `kerala_state_summary.csv`: State level summary of the COVID-19 cases for dates starting from `2020-01-31`.
@@ -13,7 +15,7 @@ We formed the datasets solely from the official information published in [Direct
 We faced mainly the following hurdles to form the district level information:
 * For many dates, the bulletins released by the D.H.S. contain only the information of the district where the patient is finally hospitalized. In many cases, this is not same as the residing district of the patient. To track community transmission, we have decided to find the residing district of the patient that is inferred from the text in the bulletins and use it in our district level summary.
 * Everyday, we manually check the consistency of the data released by D.H.S. and if there are any discrepancies, we correct it in our data and notify the officials.
-* More details on how we cleaned the data are found [here]()
+* More details on how we cleaned the data are found [here]().
 
 ## Attributes
 
