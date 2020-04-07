@@ -15,7 +15,7 @@ We formed the datasets solely from the official information published in [Direct
 We faced mainly the following hurdles to form the district level information:
 * For many dates, the bulletins released by the D.H.S. contain only the information of the district where the patient is finally hospitalized. In many cases, this is not same as the residing district of the patient. To track community transmission, we have decided to find the residing district of the patient that is inferred from the text in the bulletins and use it in our district level summary.
 * Everyday, we manually check the consistency of the data released by D.H.S. and if there are any discrepancies, we correct it in our data and notify the officials.
-* More details on how we cleaned the data are found [here]().
+* More details on how we cleaned the data are summarized in a [report]().
 
 ## Attributes
 
