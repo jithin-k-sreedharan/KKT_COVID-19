@@ -5,8 +5,8 @@ In India, COVID-19 was first identified in Kerala at the end of January 2020. Si
 For further information on the datasets, contact Varun Vasudevan (devan at stanford dot edu) and Jithin K. Sreedharan (jithinks at purdue dot edu).
 
 ## Data files
-* `kerala_state_summary.csv`: State level summary of the COVID-19 cases for dates starting from `2020-01-31`.
-* `kerala_district_summary.csv`: District level summary of the COVID-19 cases for dates starting from `2020-01-31`.
+* `kerala_state_summary.csv`: State level summary of the COVID-19 cases for dates starting from 2020-01-31.
+* `kerala_district_summary.csv`: District level summary of the COVID-19 cases for dates starting from 2020-01-31.
 * `district_code.csv`: Numeric code of the districts.
 
 ## Data source
