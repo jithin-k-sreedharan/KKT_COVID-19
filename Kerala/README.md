@@ -32,6 +32,7 @@ The following fields are available in the state summary file:
 * `Under_Observation`: Total under observation as of that date
 * `Home_Isolation`: Toal under home isolation as of that date
 * `Symptomatic_Hospitalized`: Total symptomatic hospitalized as of that date
+* `Symptomatic_Hospitalized_Today`: Number of symptomatic hospitalized cases on the given date.
 * `Samples_Sent_For_Testing`: Total samples sent for testing as of that date
 * `Samples_Tested_Negative`: Total samples tested negative as of that date
 
