@@ -5,7 +5,7 @@
 In India, COVID-19 was first reported in the state of Kerala on Jan 31, 2020. Since then, the Government of Kerala has taken stringent measures and issued multiple regulations for the containment, management and control of COVID-19. To this end, the Directorate of Health Services (DHS), Kerala, has been publishing a daily bulletin starting Jan 31, 2020 in both English and Malayalam.
 
 ## Data source
-The daily bulletin published by DHS in English is the primary source for this dataset. Though the bulletin is relatively rich in information, it is not in a form that's ready for data analysis. We collected and curated state, district and patient-level data from these bulletins to create this dataset. A visual summary of this dataset is available as a dashboard at https://covid19kerala.github.io/.
+The daily bulletin published by DHS in English is the primary source for this dataset. Though the bulletin is relatively rich in information, it is not in a form that's ready for data analysis. We collected and curated state, district and patient-level data from these bulletins to create this dataset. We have created an interactive dashboard to visually summarize this dataset. The dashboard can be accessed at https://covid19kerala.github.io/.
 
 **For details on the inconsistencies in the data reported in the daily bulletin refer to the appendix file in this folder. We will soon post a detailed report.**
 
